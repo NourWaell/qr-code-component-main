@@ -26,7 +26,6 @@ body {
 }
 .container {
   margin: 75px;
-  padding: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -35,6 +34,7 @@ body {
   background-color: var(--the-White);
   width: 350px;
   height: 550px;
+  padding: 0 20px 0 20px;
   flex-direction: column;
   box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 4.77%);
   border-radius: 20px;
